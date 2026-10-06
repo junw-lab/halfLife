@@ -30,6 +30,4 @@ tldr: wasted a lot of time because i didnt realise the function of net labels, n
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/c0b77dacb7064e590984d46070df5596152ca7ca9981a06bb59a6bd28a0d6553.png)
 
-How about this
-
 [Timelapse](https://lookout.hackclub.com/api/media/95044095-d4f1-4ada-babd-b4b6603a02cd/video.mp4)
