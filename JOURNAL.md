@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.2h | 2 |
+| Week 1 | Tier 1 | 2.3h | 2 |
 
 ## Contents
 
@@ -35,7 +35,7 @@ tldr: wasted a lot of time because i didnt realise the function of net labels, n
 
 ### 2026-10-06 — Finally fixed up my pcb drawing
 
-**0.7h**
+**0.8h**
 
 Finally fixed up my pcb drawing
 I set out to restart after not using net labels before. Finished that part as well as assigning footprints. Mostly straightforward from the github guide, although at the end I did have to search up whether applying the schematic and saving was the same - there was no "apply" option.
