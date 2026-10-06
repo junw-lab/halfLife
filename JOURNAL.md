@@ -10,16 +10,26 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.57h | 1 |
+| Week 1 | Tier 1 | 1h | 1 |
 
 ## Contents
 
-1. [2026-10-06 — Work session](#2026-10-06-work-session)
+1. [2026-10-06 — I understand how net labels work in kikad work now. Following the github week 1 guide, I thought that after drawing the esp they intentionally provided "hints" by not drawing the wiring that routed to](#2026-10-06-i-understand-how-net-labels-work-in-kikad-work-no)
 
 ## Design
 
-### 2026-10-06 — Work session
+### 2026-10-06 — I understand how net labels work in kikad work now. Following the github week 1 guide, I thought that after drawing the esp they intentionally provided "hints" by not drawing the wiring that routed to
 
-**0.57h**
+**1h**
+
+I understand how net labels work in kikad work now. Following the github week 1 guide, I thought that after drawing the esp they intentionally provided "hints" by not drawing the wiring that routed to the ESP. Eventually as i drawed using wires it got really confusing and i was struggling alot. Following a google search i found out that net labels of the same name establish a connection. Although now re-reading the guide I understand that it told me so in "The net labels tell the schematic that those parts need to be connected without having to draw wires all over", I read and didn't understand it before. Wasted lots of time on this having to restart, and lookout timelapse app for some reason didnt capture my desktop and only my browser so it didnt see my kicad progress which sucks. So this will be a manual entry instead of a timelapse. And i had to use the undo and redo function to take the screenshots of during the mistake and when i restarted cuz i never knew timelapse would act up on me
+
+tldr: wasted a lot of time because i didnt realise the function of net labels, now i have to restart
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/380503ef1326bce701df92563e5207bf26b1011f6f4327d7aaa16ccfa90f4c66.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/c0b77dacb7064e590984d46070df5596152ca7ca9981a06bb59a6bd28a0d6553.png)
+
+How about this
 
 [Timelapse](https://lookout.hackclub.com/api/media/95044095-d4f1-4ada-babd-b4b6603a02cd/video.mp4)
