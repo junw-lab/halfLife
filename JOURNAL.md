@@ -73,6 +73,6 @@ result:
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/55b5859f1f386a8812d750d703bb82c5cf602063cb10dd8e8d55b0e01e460dec.png)
 
-tldr: Fixed routing errors and added GND ground pour
+tldr: Fixed routing errors, routed, learnt about layers and added GND ground pour
 
 next time: Figure out how to add a bh1750 light sensor module since KiCad doesn't have it, so will start learning how to make it and do footprints for it and stuff. And then check for errors.
