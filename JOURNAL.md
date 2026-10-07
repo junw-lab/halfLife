@@ -57,15 +57,7 @@ I followed the PCB routing process. However, it initially gave me warnings and e
 
 ![Screenshot 2026-10-07 143032](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/bc5b71c7184801637245d87299a62fd07bef7c31a870515747f766a3e4a83074.png)
 
-I eventually fixed the errors by going back and making sure the net labels were named correctly, specifically spaces in DHT11 DATA  that caused the errors and also one instance where my SCL and SDA was flipped. Now i have 0 errors and some warnings, but looking at the slack channel apparently this is normal (for it to give padding errors like Error: U2 pad 18 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 19 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 15 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 20 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 16 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 17 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 22 not found in Imported Parts:XIAO-ESP32-C6-DIP.
-Error: U2 pad 21 not found in Imported Parts:XIAO-ESP32-C6-DIP.)
-
+I eventually fixed the errors by going back and making sure the net labels were named correctly, specifically spaces in DHT11 DATA  that caused the errors and also one instance where my SCL and SDA was flipped. Now i have 0 errors and some warnings. The warnings are about some sort of missing padding or whatever. But i can't figure out why this happens.
 For the boundary, i watched https://www.youtube.com/watch?v=upaHLpd6N4o and  and https://www.youtube.com/watch?v=muq3DlWbwh8
 
 I then started routing.
