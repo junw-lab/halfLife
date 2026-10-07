@@ -57,7 +57,7 @@ I followed the PCB routing process. However, it initially gave me warnings and e
 
 ![Screenshot 2026-10-07 143032](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/bc5b71c7184801637245d87299a62fd07bef7c31a870515747f766a3e4a83074.png)
 
-I eventually fixed the errors by going back and making sure the net labels were named correctly, specifically spaces in DHT11 DATA  that caused the errors and also one instance where my SCL and SDA was flipped. Now i have 0 errors and some warnings. The warnings are about some sort of missing padding or whatever. But i can't figure out why this happens.
+I eventually fixed the errors by going back and making sure the net labels were named correctly, specifically spaces in DHT11 DATA  that caused the errors and also one instance where my SCL and SDA was flipped. Now i have 0 errors and some warnings. The warnings are about some sort of missing padding or whatever. But i can't figure out why this happens. At the moment though I've been able to continue through the tutorial so i guess ill leave it until i see it pop up again since it only showed once when i imported the pcb in the editor.
 For the boundary, i watched https://www.youtube.com/watch?v=upaHLpd6N4o and  and https://www.youtube.com/watch?v=muq3DlWbwh8
 
 I then started routing.
