@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.3h | 3 |
+| Week 1 | Tier 1 | 4.8h | 3 |
 
 ## Contents
 
@@ -51,7 +51,7 @@ so next session I will start routing the PCB
 
 ### 2026-10-07 — I followed the PCB routing process. However, it initially gave me warnings and errors.
 
-**2h**
+**2.5h**
 
 I followed the PCB routing process. However, it initially gave me warnings and errors.
 
@@ -75,10 +75,12 @@ It was really ugly and took a while to find the areas i had to press X on, becau
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/82b41daad4897291e774e042331db22a26b51e071792f6f11a4bbdf9169dbb27.png)
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/d82ab70a7fb4740634b059e24c4c5cefda3e127be14bb59ae31208e12f3656de.png)
 
-Finished routing. Searched up what a GND ground pour was. So i removed all the GND points (5), watched https://www.youtube.com/watch?v=DNTgrTukltw and started doing it
+Finished routing. Searched up what a GND ground pour was. So it removes the need for wiring to ground and makes the circuit look cleaner. So i removed all the GND points (5), watched https://www.youtube.com/watch?v=DNTgrTukltw and started doing it
 
 result:
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/55b5859f1f386a8812d750d703bb82c5cf602063cb10dd8e8d55b0e01e460dec.png)
 
 tldr: Fixed routing errors and added GND ground pour
+
+next time: Figure out how to add a bh1750 light sensor module since KiCad doesn't have it, so will start learning how to make it and do footprints for it and stuff. And then check for errors.
