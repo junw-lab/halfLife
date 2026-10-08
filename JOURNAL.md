@@ -124,6 +124,7 @@ I am facing issues again. My schematic symbol has 22 pins, but the DIP footprint
 
 changed it to New_XIAO_Series_Footprints:XIAO-ESP32-C3-DIP-SMD. 0 errors and 0 warnings. But I now have extra pads compared to the tutorial and 8 extra SMDS. I don't know why this discrepancy exists but many people faced it as far as i can see in slack. I think i will keep this for now. Design rule checker shows no wrong. But with these extra paddings it means if i solder onto it then the module won't lie flat... I will look into this further in the next session.
 
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/93f826f6b6d0500ac650c39d2d9edb1031ffb35d40b5cf4fe3cb9da8b32b901c.png)
 tldr: Fixed a thermal relief issue by rerouting a trace and rounded the PCB corners.Added an AT42QT1010 capacitive touch sensor instead of a light sensor and routed it. troubleshot several PCB errors caused by incorrect ESP32-C3 footprints and pad mismatches. Design checker shows no warnings.
 
 next session: look into how to remove the need for the SMD pads to go back to the guide's 14.
