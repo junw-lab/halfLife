@@ -154,3 +154,7 @@ Approximated component size, rearranged again.
 Done routing.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/55bd8a6155ea37bd920d98773954bfbc8ef6869a118b32c23b9f76cefbf0244e.png)
+
+tldr: moved components based on how good they look and how big of a risk original spacing was. Rerouted and applied ground fill.
+
+next session: finalise before shipping - add some art, BOM and firmware
