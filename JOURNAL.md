@@ -184,4 +184,4 @@ Damn it. my xiao's usb c is facing the wrong way. I realised this when confirmin
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/l46XmsBE41tdBulSbMyXAL2SgBHJAIib/b640e3e1abd1e1b0f8262ec7fcb776f153e7ff97d6f9f024c88819617c49453f.png)
 
-I rerouted the ESP, making sure the USB C connection sits flush with the pcb. I have cross referenced all the pins in the code and confirmed they match. I added the touch sensor to pin 10 of the code. I have copied and pasted all the rest of radial menu and sparkle. I will leave the custom bitmap pet until later because since I don;t have the esp or oled i can't test anyways.
+I rerouted the ESP, making sure the USB C connection sits flush with the pcb. I have cross referenced all the pins in the code and confirmed they match. I added the touch sensor to pin 10 of the code. I have copied and pasted all the rest of radial menu and sparkle.
